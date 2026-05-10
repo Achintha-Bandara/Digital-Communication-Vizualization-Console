@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -152,10 +152,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IBEEDNKM
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for EDR_Keypad\Design Rule Check - keypad.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
