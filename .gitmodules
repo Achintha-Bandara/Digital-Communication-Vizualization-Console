@@ -1,0 +1,6 @@
+[submodule "pcb-files/LED_bars"]
+	path = pcb-files/LED_bars
+	url = https://afs-vcs-as1.365.altium.com/git/D2221703-D01A-4A9C-A014-70FB885D7913.git
+[submodule "pcb-files/keypad"]
+	path = pcb-files/keypad
+	url = https://afs-vcs-as1.365.altium.com/git/E774E6FC-A707-46BA-96FA-BABBA30268A9.git
