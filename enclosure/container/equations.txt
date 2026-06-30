@@ -1,0 +1,9 @@
+﻿"LED_matrix_height"=75
+"keypad_height"=80
+"front_panel_width"=40
+"front_panel_length"=320
+"front_panel_incline"=110
+"back_panel_width1"=15
+"back_panel_width2"=50
+"hole_clearance"=0.4
+"wall_thickness"=3
