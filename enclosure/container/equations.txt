@@ -17,3 +17,7 @@
 "tilt_foot_width"=25
 "tilt_foot_height"=25
 "tilt_foot_thickness"=3
+"round_button_diameter"=13
+"square_button_width"=10
+"screw_diameter"=3.2
+"mounting_boss_diameter"=7
