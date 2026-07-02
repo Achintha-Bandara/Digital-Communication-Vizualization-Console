@@ -21,3 +21,5 @@
 "square_button_width"=10
 "screw_diameter"=3.2
 "mounting_boss_diameter"=7
+"red_LED_hole_diameter"=5.5
+"knob_hole_diameter"=10
