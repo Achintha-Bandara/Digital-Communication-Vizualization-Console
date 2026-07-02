@@ -9,10 +9,11 @@
 "wall_thickness"=3
 "back_panel_ribs_width"=150
 "fillet_radius"=2
-"LCD_width"=73
-"LCD_height"=50
-"LCD_PCB_width"=87
-"LCD_PCB_height"=57
+"LCD_width"=74
+"LCD_height"=49
+"LCD_PCB_width"=86
+"LCD_PCB_height"=56
+"LCD_thickness"=5
 "tilt_foot_width"=25
 "tilt_foot_height"=25
 "tilt_foot_thickness"=3
