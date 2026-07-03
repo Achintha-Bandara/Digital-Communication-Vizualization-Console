@@ -24,3 +24,4 @@
 "mounting_boss_height"=10
 "red_LED_hole_diameter"=5.5
 "knob_hole_diameter"=10
+"dc_jack_clearnce"=1.5
