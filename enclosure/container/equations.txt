@@ -6,7 +6,7 @@
 "back_panel_width1"=15
 "back_panel_width2"=50
 "hole_clearance"=0.4
-"wall_thickness"=2.5
+"wall_thickness"=2.4
 "back_panel_ribs_width"=150
 "fillet_radius"=2
 "LCD_width"=74
@@ -20,7 +20,9 @@
 "round_button_diameter"=13
 "square_button_width"=10
 "screw_diameter"=3.2
+"screw_head_diameter"=6
 "mounting_boss_diameter"=7
+"main_mounting_boss_diameter"=8
 "mounting_boss_height"=10
 "red_LED_hole_diameter"=5.5
 "knob_hole_diameter"=10
